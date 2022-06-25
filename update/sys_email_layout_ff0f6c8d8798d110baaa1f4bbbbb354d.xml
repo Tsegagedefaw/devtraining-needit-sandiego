@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_email_layout">
+    <sys_email_layout action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <advanced_layout/>
+        <description/>
+        <layout><![CDATA[<style type="text/css">
+        /* CLIENT-SPECIFIC STYLES */
+        body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+        table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+        img { -ms-interpolation-mode: bicubic; }
+	<img style="display: block; margin-left: auto; margin-right: auto;" title="" src="sys_attachment.do?sys_id=a4ded03087d89110baaa1f4bbbbb3584" alt="" width="289" height="87" align="baseline" border="" hspace="" vspace="" />
+        /* RESET STYLES */
+        img { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+        table { border-collapse: collapse !important; }
+        body { height: 100% !important; margin: 0 !important; padding: 0 !important; width: 100% !important; }
+
+        /* iOS BLUE LINKS */
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+        /* MEDIA QUERIES */
+        @media screen and (max-width: 480px) {
+            .mobile-hide {
+                display: none !important;
+            }
+            .mobile-center {
+                text-align: center !important;
+            }
+        }
+
+        /* ANDROID CENTER FIX */
+        div[style*="margin: 16px 0;"] { margin: 0 !important; }
+
+        p {font-family: Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 400; line-height: 24px; color: #444444;}
+    </style>
+<p></p>
+<table style="width: 99.5408%;" border="0" width="1086" cellspacing="0" cellpadding="0" height="580">
+<tbody>
+<tr>
+<td style="background-color: #eeeeee;" align="center" bgcolor="#eeeeee">
+<table style="max-width: 600px; height: 367px; width: 100%;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr style="height: 107px;">
+<td style="font-size: 0px; padding: 18px; height: 10px;" align="center" valign="top" bgcolor="#ffffff">
+<div style="display: inline-block; max-width: 100%; min-width: 100px; vertical-align: top; width: 100%;">
+<table style="max-width: 600px;" border="0" width="100%" cellspacing="0" cellpadding="0" align="left">
+<tbody>
+<tr>
+<td class="mobile-center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 36px; font-weight: 500; line-height: 48px;" align="left" valign="top"><img style="display: block; margin-left: auto; margin-right: auto;" title="" src="sys_attachment.do?sys_id=a4ded03087d89110baaa1f4bbbbb3584" alt="" width="289" height="87" align="baseline" border="" hspace="" vspace="" /></td>
+</tr>
+</tbody>
+</table>
+<span style="font-size: 12pt;"></span></div>
+</td>
+</tr>
+<tr style="height: 13px;"></tr>
+<tr style="height: 268px;">
+<td style="padding: 15px; background-color: #ffffff; height: 268px;" align="center" bgcolor="#ffffff">
+<table style="max-width: 600px; width: 99.6479%; height: 263px;" border="0" width="566" cellspacing="0" cellpadding="0" align="center" height="282">
+<tbody>
+<tr style="height: 134px;">
+<td style="font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 400; line-height: 24px; padding: 5px 0px 10px; height: 134px;" align="center">
+<p>${notification:body}</p>
+<p style="text-align: left;"></p>
+</td>
+</tr>
+<tr style="height: 129px;">
+<td style="font-family: 'Open Sans', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 400; line-height: 24px; text-align: left; height: 129px;" align="center">
+<p>resolved by admin</p>
+<p>Thanks</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" title="" src="sys_attachment.do?sys_id=a4ded03087d89110baaa1f4bbbbb3584" alt="" width="126" height="38" align="baseline" border="" hspace="" vspace="" /></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>]]></layout>
+        <name>dengene layout</name>
+        <sys_class_name>sys_email_layout</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-23 08:10:14</sys_created_on>
+        <sys_id>ff0f6c8d8798d110baaa1f4bbbbb354d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dengene layout</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_email_layout_ff0f6c8d8798d110baaa1f4bbbbb354d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-23 08:10:14</sys_updated_on>
+    </sys_email_layout>
+</record_update>
